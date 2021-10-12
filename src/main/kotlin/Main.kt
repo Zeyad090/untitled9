@@ -6,6 +6,6 @@ fun main(args: Array<String>) {
 
 
 
-    println(no0fDozens)
+    println("this is " +no0fDozens)
     println(remainApples)
 }
